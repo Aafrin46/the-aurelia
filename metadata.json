@@ -1,0 +1,6 @@
+{
+  "name": "The Aurelia Hotel & Residences",
+  "description": "An architectural sanctuary born from a century-long tradition of understated European grandeur and bespoke hospitality.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
